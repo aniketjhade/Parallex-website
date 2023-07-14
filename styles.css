@@ -54,10 +54,10 @@ section{
 }
 
 .bg1{
-    background-image: url(./Images/sport1.jpg);
+    background-image: url(./Images/background.png);
 }
 .bg2{
-    background-image: url(./Images/sport2.jpg);
+    background-image: url(./Images/foreground.png);
 }
 .bg3{
     background-image: url(./Images/sport3.jpg);
